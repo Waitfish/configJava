@@ -3,8 +3,8 @@ Java 的配置文件 application.properties 批量修改参数较为麻烦,这�
 
 ## 使用方法
 ```bash
-Usage of configjava:s
- -n string
+Usage of configjava
+  -n string
         需要设置的参数名称 (default "name")
   -s string
         用来修改参数文件的json文件路径 (default "config.json")
