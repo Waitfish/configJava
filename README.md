@@ -1,6 +1,8 @@
 # configJava
 Java 的配置文件 application.properties 批量修改参数较为麻烦,这是一个修改参数文件的小工具.
 
+## 下载地址
+https://github.com/Waitfish/configJava/releases
 ## 使用方法
 ```bash
 Usage of configjava
