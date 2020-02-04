@@ -38,6 +38,5 @@ configjava -t file -s test.json -u config.properties
 
 ## build for linux64
 ```bash
-env GOOS=linux GOARCH=amd64 
-go build gethard.go
+CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build configJava.go   
 ```
